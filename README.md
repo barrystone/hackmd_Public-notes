@@ -24,6 +24,7 @@
 
 - [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/web-dev_nextjs-deploy-on-github-pages)
 - [Set environment variable reactjs and nextjs](https://hackmd.io/@barrystone/web-dev_set-environment-variable-reactjs-and-nextjs)
+- [Set up concurrently for ReactJS and backend](https://hackmd.io/@barrystone/web-dev_set-up-concurrently-or-eactjs-and-backend)
 
 ## CSS
 
@@ -44,6 +45,8 @@
 ## Others
 
 - [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
+- [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
+- [Use bit component](https://hackmd.io/@barrystone/others_use-bit-component)
 
 ## Redux
 
