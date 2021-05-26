@@ -22,18 +22,20 @@
 
 ## Web Dev
 
-- [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/web-dev_nextjs-deploy-on-github-pages)
 - [Set environment variable reactjs and nextjs](https://hackmd.io/@barrystone/web-dev_set-environment-variable-reactjs-and-nextjs)
 - [Set up concurrently for ReactJS and backend](https://hackmd.io/@barrystone/web-dev_set-up-concurrently-or-eactjs-and-backend)
+- [PWA index.html icon](https://hackmd.io/@barrystone/web-dev_pwa-indexhtml-icon)
 
 ## CSS
 
 - [Basic](https://hackmd.io/@barrystone/css_basic)
 - [Media query basic breakpoint](https://hackmd.io/@barrystone/css_media-query-basic-breakpoint)
+- [SCSS Rules and Tricks](https://hackmd.io/@barrystone/css_scss-rules-and-tricks)
 
-## GraphqL
+## Graphql
 
-- [GraphqL Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
+- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
+- [GraphQL Pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
 
 ## Nodejs
 - [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
@@ -48,6 +50,9 @@
 ## App Hosting
 
 - [Hosting option](https://hackmd.io/@barrystone/app-hosting_hosting-option)
+- [Deploy on heroku](https://hackmd.io/@barrystone/app-hosting_deploy-on-heroku)
+- [React App deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_react-app-deploy-on-github-pages)
+- [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_nextjs-deploy-on-github-pages)
 
 
 ## Security
