@@ -3,15 +3,21 @@
 ## Vuejs
 
 - [Vuex](https://hackmd.io/@barrystone/vue_vuex)
-- [vue-router](https://hackmd.io/@barrystone/vue_vue-router)
 - [Vuex tempalte](https://hackmd.io/@barrystone/vue_vuex-template)
+- [vue-router](https://hackmd.io/@barrystone/vue_vue-router)
 - [Vue env variable and github-page deploy](https://hackmd.io/@barrystone/vue_vue-env-variable-and-github-page-deploy)
 - [Vue lifecicle](https://hackmd.io/@barrystone/vue_vue-lifecicle)
 
 ## Software Engineering
 
-- [1.軟體程序](https://hackmd.io/@barrystone/software-engineering_1-軟體程序)
-- [2.敏捷式開發](https://hackmd.io/@barrystone/software-engineering_2-敏捷式開發)
+- [1. 軟體程序](https://hackmd.io/@barrystone/software-engineering_1-軟體程序)
+- [2. 敏捷式開發](https://hackmd.io/@barrystone/software-engineering_2-敏捷式開發)
+- [3. 需求工程](https://hackmd.io/@barrystone/software-engineering_3-需求工程)
+- [4. 系統塑模](https://hackmd.io/@barrystone/software-engineering_4-系統塑模)
+- [5. 架構設計](https://hackmd.io/@barrystone/software-engineering_5-架構設計)
+- [6. 設計與實作](https://hackmd.io/@barrystone/software-engineering_6-設計與實作)
+- [7. 軟體測試](https://hackmd.io/@barrystone/software-engineering_7-軟體測試)
+- [8. 軟體演進](https://hackmd.io/@barrystone/software-engineering_8-軟體演進)
 
 
 ## Web Dev
@@ -23,21 +29,21 @@
 
 - [Basic](https://hackmd.io/@barrystone/css_basic)
 
-## Others
+## GraphqL
 
-- [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
-
-## GraphQL
-
-- [GraphQL Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
+- [GraphqL Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
 
 ## Nodejs
-
+- [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
 - [yarn](https://hackmd.io/@barrystone/nodejs_yarn)
 
 ## App Hosting
 
 - [Hosting option](https://hackmd.io/@barrystone/app-hosting_hosting-option)
+
+## Others
+
+- [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
 
 ## Redux
 
