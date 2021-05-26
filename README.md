@@ -52,15 +52,16 @@
 - [React App deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_react-app-deploy-on-github-pages)
 - [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_nextjs-deploy-on-github-pages)
 
+## Graphql
+
+- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
+- [Graphal pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
+- [Graphql with Prisma schema](https://hackmd.io/@barrystone/graphql_graphql-with-prisma-schema)
+
 ## Nodejs
 - [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
 - [yarn](https://hackmd.io/@barrystone/nodejs_yarn)
 - [Set import in ES module](https://hackmd.io/@barrystone/nodejs_set-import-in-es-module)
-
-## Graphql
-
-- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
-- [GraphQL Pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
 
 ## Security
 - [ModSecurity](https://hackmd.io/@barrystone/security_modsecurity)
