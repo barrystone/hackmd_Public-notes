@@ -34,6 +34,7 @@
 
 ## Security
 - [ModSecurity](https://hackmd.io/@barrystone/security_modsecurity)
+- [Pingtung Hacker note](https://hackmd.io/@barrystone/security_pingtung-hacker-note)
 - [hash digest](https://hackmd.io/@barrystone/security_hash-digest)
 
 
