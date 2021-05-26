@@ -40,9 +40,18 @@
 - [yarn](https://hackmd.io/@barrystone/nodejs_yarn)
 - [Set import in ES module](https://hackmd.io/@barrystone/nodejs_set-import-in-es-module)
 
+## Redux
+
+- [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
+- [Redux API middleware began success failed](https://hackmd.io/@barrystone/redux_redux-api-middleware-began-success-ailed)
+
 ## App Hosting
 
 - [Hosting option](https://hackmd.io/@barrystone/app-hosting_hosting-option)
+
+
+## Security
+- [ModSecurity](https://hackmd.io/@barrystone/security_modsecurity)
 
 ## Others
 
@@ -50,8 +59,5 @@
 - [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
 - [Use bit component](https://hackmd.io/@barrystone/others_use-bit-component)
 
-## Redux
-
-- [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
 
 
