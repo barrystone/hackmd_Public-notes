@@ -28,7 +28,7 @@
 
 ## CSS
 
-- [Basic](https://hackmd.io/@barrystone/css_basic)
+- [Basic CSS setup](https://hackmd.io/@barrystone/css_basic-css-setup)
 - [Media query basic breakpoint](https://hackmd.io/@barrystone/css_media-query-basic-breakpoint)
 - [SCSS Rules and Tricks](https://hackmd.io/@barrystone/css_scss-rules-and-tricks)
 
