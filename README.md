@@ -38,6 +38,20 @@
 - [Redux API middleware began success failed](https://hackmd.io/@barrystone/redux_redux-api-middleware-began-success-ailed)
 - [Nextjs with Redux](https://hackmd.io/@barrystone/redux_nextjs-with-redux)
 
+## Others
+
+- [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
+- [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
+- [Bit component](https://hackmd.io/@barrystone/others_bit-component)
+- [imgur in github README.md](https://hackmd.io/@barrystone/others_imgur-in-github-readmemd)
+
+## App Hosting
+
+- [Hosting option](https://hackmd.io/@barrystone/app-hosting_hosting-option)
+- [Deploy on heroku](https://hackmd.io/@barrystone/app-hosting_deploy-on-heroku)
+- [React App deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_react-app-deploy-on-github-pages)
+- [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_nextjs-deploy-on-github-pages)
+
 ## Nodejs
 - [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
 - [yarn](https://hackmd.io/@barrystone/nodejs_yarn)
@@ -47,20 +61,6 @@
 
 - [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
 - [GraphQL Pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
-
-## Others
-
-- [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
-- [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
-- [Use bit component](https://hackmd.io/@barrystone/others_use-bit-component)
-- [imgur in github README.md](https://hackmd.io/@barrystone/others_imgur-in-github-readmemd)
-
-## App Hosting
-
-- [Hosting option](https://hackmd.io/@barrystone/app-hosting_hosting-option)
-- [Deploy on heroku](https://hackmd.io/@barrystone/app-hosting_deploy-on-heroku)
-- [React App deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_react-app-deploy-on-github-pages)
-- [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_nextjs-deploy-on-github-pages)
 
 ## Security
 - [ModSecurity](https://hackmd.io/@barrystone/security_modsecurity)
