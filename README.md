@@ -32,20 +32,15 @@
 - [Media query basic breakpoint](https://hackmd.io/@barrystone/css_media-query-basic-breakpoint)
 - [SCSS Rules and Tricks](https://hackmd.io/@barrystone/css_scss-rules-and-tricks)
 
-## Graphql
+## Redux
 
-- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
-- [GraphQL Pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
+- [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
+- [Redux API middleware began success failed](https://hackmd.io/@barrystone/redux_redux-api-middleware-began-success-ailed)
 
 ## Nodejs
 - [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
 - [yarn](https://hackmd.io/@barrystone/nodejs_yarn)
 - [Set import in ES module](https://hackmd.io/@barrystone/nodejs_set-import-in-es-module)
-
-## Redux
-
-- [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
-- [Redux API middleware began success failed](https://hackmd.io/@barrystone/redux_redux-api-middleware-began-success-ailed)
 
 ## App Hosting
 
@@ -54,9 +49,10 @@
 - [React App deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_react-app-deploy-on-github-pages)
 - [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_nextjs-deploy-on-github-pages)
 
+## Graphql
 
-## Security
-- [ModSecurity](https://hackmd.io/@barrystone/security_modsecurity)
+- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
+- [GraphQL Pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
 
 ## Others
 
@@ -64,5 +60,6 @@
 - [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
 - [Use bit component](https://hackmd.io/@barrystone/others_use-bit-component)
 
-
-
+## Security
+- [ModSecurity](https://hackmd.io/@barrystone/security_modsecurity)
+- [hash digest](https://hackmd.io/@barrystone/security_hash-digest)
