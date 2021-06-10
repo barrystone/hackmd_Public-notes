@@ -18,6 +18,11 @@
 - [6. 設計與實作](https://hackmd.io/@barrystone/software-engineering_6-設計與實作)
 - [7. 軟體測試](https://hackmd.io/@barrystone/software-engineering_7-軟體測試)
 - [8. 軟體演進](https://hackmd.io/@barrystone/software-engineering_8-軟體演進)
+- [9. 專案管理](https://hackmd.io/@barrystone/software-engineering_9-專案管理)
+- [10. 專案規劃](https://hackmd.io/@barrystone/software-engineering_10-專案規劃)
+- [11. 組態管理](https://hackmd.io/@barrystone/software-engineering_11-組態管理)
+- [12. 品質管理](https://hackmd.io/@barrystone/software-engineering_12-品質管理)
+
 
 
 ## Web Dev
@@ -57,6 +62,7 @@
 - [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
 - [Redux API middleware began success failed](https://hackmd.io/@barrystone/redux_redux-api-middleware-began-success-ailed)
 - [Nextjs with Redux](https://hackmd.io/@barrystone/redux_nextjs-with-redux)
+- [redux-toolkit update state in slice](https://hackmd.io/@barrystone/redux_redux-toolkit-update-state-in-slice)
 
 ## Nodejs
 - [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
