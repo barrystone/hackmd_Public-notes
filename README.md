@@ -60,7 +60,7 @@
 ## Redux
 
 - [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
-- [Redux API middleware began success failed](https://hackmd.io/@barrystone/redux_redux-api-middleware-began-success-ailed)
+- [Redux API middleware B-S-F](https://hackmd.io/@barrystone/redux_redux-api-middleware-b-s-f)
 - [Nextjs with Redux](https://hackmd.io/@barrystone/redux_nextjs-with-redux)
 - [redux-toolkit update state in slice](https://hackmd.io/@barrystone/redux_redux-toolkit-update-state-in-slice)
 
