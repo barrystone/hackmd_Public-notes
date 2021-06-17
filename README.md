@@ -22,6 +22,7 @@
 - [10. 專案規劃](https://hackmd.io/@barrystone/software-engineering_10-專案規劃)
 - [11. 組態管理](https://hackmd.io/@barrystone/software-engineering_11-組態管理)
 - [12. 品質管理](https://hackmd.io/@barrystone/software-engineering_12-品質管理)
+- [13.分散式軟體工程](https://hackmd.io/@barrystone/software-engineering_13-分散式軟體工程)
 
 
 
