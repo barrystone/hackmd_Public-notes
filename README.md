@@ -28,6 +28,7 @@
 
 ## Web Dev
 
+- [Docker comand line](https://hackmd.io/@barrystone/Docker-comand-line)
 - [Set environment variable reactjs and nextjs](https://hackmd.io/@barrystone/web-dev_set-environment-variable-reactjs-and-nextjs)
 - [Set up concurrently for ReactJS and backend](https://hackmd.io/@barrystone/web-dev_set-up-concurrently-or-eactjs-and-backend)
 - [PWA index.html icon](https://hackmd.io/@barrystone/web-dev_pwa-indexhtml-icon)
@@ -47,7 +48,7 @@
 
 ## Others
 
-- [Docker comand line](https://hackmd.io/@barrystone/Docker-comand-line)
+- [VS-code-Snippets](https://hackmd.io/@barrystone/VS-code-Snippets)
 - [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
 - [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
 - [Bit component](https://hackmd.io/@barrystone/others_bit-component)
