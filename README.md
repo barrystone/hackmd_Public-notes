@@ -28,7 +28,6 @@
 
 ## Web Dev
 
-- [Docker comand line](https://hackmd.io/@barrystone/Docker-comand-line)
 - [Set environment variable reactjs and nextjs](https://hackmd.io/@barrystone/web-dev_set-environment-variable-reactjs-and-nextjs)
 - [Set up concurrently for ReactJS and backend](https://hackmd.io/@barrystone/web-dev_set-up-concurrently-or-eactjs-and-backend)
 - [PWA index.html icon](https://hackmd.io/@barrystone/web-dev_pwa-indexhtml-icon)
@@ -48,11 +47,11 @@
 
 ## Others
 
-- [VS-code-Snippets](https://hackmd.io/@barrystone/VS-code-Snippets)
+- [VS code Snippets](https://hackmd.io/@barrystone/others_vs-code-snippets)
 - [Logrocket](https://hackmd.io/@barrystone/others_logrocket)
 - [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
 - [Bit component](https://hackmd.io/@barrystone/others_bit-component)
-- [imgur in github README.md](https://hackmd.io/@barrystone/others_imgur-in-github-readmemd)
+- [Imgur markdown size](https://hackmd.io/@barrystone/others_imgur-markdown-size)
 
 ## App Hosting
 
@@ -68,10 +67,12 @@
 - [Nextjs with Redux](https://hackmd.io/@barrystone/redux_nextjs-with-redux)
 - [redux-toolkit update state in slice](https://hackmd.io/@barrystone/redux_redux-toolkit-update-state-in-slice)
 
-## Nodejs
-- [npm npx cmd](https://hackmd.io/@barrystone/nodejs_npm-npx-cmd)
-- [yarn](https://hackmd.io/@barrystone/nodejs_yarn)
-- [Set import in ES module](https://hackmd.io/@barrystone/nodejs_set-import-in-es-module)
+## Backend
+
+- [Docker comand line](https://hackmd.io/@barrystone/backend_docker-comand-line)
+- [npm npx cmd](https://hackmd.io/@barrystone/backend_npm-npx-cmd)
+- [yarn](https://hackmd.io/@barrystone/backend_yarn)
+- [Set import in ES module](https://hackmd.io/@barrystone/backend_set-import-in-es-module)
 
 ## Graphql
 
