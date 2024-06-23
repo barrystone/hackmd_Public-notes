@@ -22,32 +22,20 @@ https://hackmd.io/@barrystone
 - [12. 品質管理](https://hackmd.io/@barrystone/software-engineering_12-品質管理)
 - [13.分散式軟體工程](https://hackmd.io/@barrystone/software-engineering_13-分散式軟體工程)
 
+
+## Redux
+
+- [redux-toolkit update state in slice](https://hackmd.io/@barrystone/redux_redux-toolkit-update-state-in-slice)
+- [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
+- [Redux API middleware B-S-F](https://hackmd.io/@barrystone/redux_redux-api-middleware-b-s-f)
+- [Nextjs with Redux](https://hackmd.io/@barrystone/redux_nextjs-with-redux)
+
 ## CSS
 
 - [Basic CSS setup](https://hackmd.io/@barrystone/css_basic-css-setup)
 - [Media query basic breakpoint](https://hackmd.io/@barrystone/css_media-query-basic-breakpoint)
 - [SCSS Rules and Tricks](https://hackmd.io/@barrystone/css_scss-rules-and-tricks)
 
-## Redux
-
-- [redux-thunk](https://hackmd.io/@barrystone/redux_redux-thunk)
-- [Redux API middleware B-S-F](https://hackmd.io/@barrystone/redux_redux-api-middleware-b-s-f)
-- [Nextjs with Redux](https://hackmd.io/@barrystone/redux_nextjs-with-redux)
-- [redux-toolkit update state in slice](https://hackmd.io/@barrystone/redux_redux-toolkit-update-state-in-slice)
-
-## Graphql
-
-- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
-- [Graphal pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
-- [Graphql with Prisma schema](https://hackmd.io/@barrystone/graphql_graphql-with-prisma-schema)
-
-## Vuejs
-
-- [Vuex](https://hackmd.io/@barrystone/vue_vuex)
-- [Vuex tempalte](https://hackmd.io/@barrystone/vue_vuex-template)
-- [vue-router](https://hackmd.io/@barrystone/vue_vue-router)
-- [Vue env variable and github-page deploy](https://hackmd.io/@barrystone/vue_vue-env-variable-and-github-page-deploy)
-- [Vue lifecicle](https://hackmd.io/@barrystone/vue_vue-lifecicle)
 
 ## Others
 
@@ -56,13 +44,6 @@ https://hackmd.io/@barrystone
 - [Cloudinary image upload](https://hackmd.io/@barrystone/others_cloudinary-image-upload)
 - [Bit component](https://hackmd.io/@barrystone/others_bit-component)
 - [Imgur markdown size](https://hackmd.io/@barrystone/others_imgur-markdown-size)
-
-## Backend
-
-- [Docker comand line](https://hackmd.io/@barrystone/backend_docker-comand-line)
-- [npm npx cmd](https://hackmd.io/@barrystone/backend_npm-npx-cmd)
-- [yarn](https://hackmd.io/@barrystone/backend_yarn)
-- [Set import in ES module](https://hackmd.io/@barrystone/backend_set-import-in-es-module)
 
 ## Web Dev
 
@@ -76,6 +57,27 @@ https://hackmd.io/@barrystone
 - [Deploy on heroku](https://hackmd.io/@barrystone/app-hosting_deploy-on-heroku)
 - [React App deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_react-app-deploy-on-github-pages)
 - [Nextjs deploy on github-pages](https://hackmd.io/@barrystone/app-hosting_nextjs-deploy-on-github-pages)
+
+## Vuejs
+
+- [Vuex](https://hackmd.io/@barrystone/vue_vuex)
+- [Vuex tempalte](https://hackmd.io/@barrystone/vue_vuex-template)
+- [vue-router](https://hackmd.io/@barrystone/vue_vue-router)
+- [Vue env variable and github-page deploy](https://hackmd.io/@barrystone/vue_vue-env-variable-and-github-page-deploy)
+- [Vue lifecicle](https://hackmd.io/@barrystone/vue_vue-lifecicle)
+
+## Backend
+
+- [Docker comand line](https://hackmd.io/@barrystone/backend_docker-comand-line)
+- [npm npx cmd](https://hackmd.io/@barrystone/backend_npm-npx-cmd)
+- [yarn](https://hackmd.io/@barrystone/backend_yarn)
+- [Set import in ES module](https://hackmd.io/@barrystone/backend_set-import-in-es-module)
+
+## Graphql
+
+- [Graphql Introduction](https://hackmd.io/@barrystone/graphql_graphql-introduction)
+- [Graphal pakages](https://hackmd.io/@barrystone/graphql_graphql-pakages)
+- [Graphql with Prisma schema](https://hackmd.io/@barrystone/graphql_graphql-with-prisma-schema)
 
 ## Security
 
